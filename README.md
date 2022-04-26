@@ -3,3 +3,4 @@
 # dont worry roblox cant patch this as far as i think lol
 # props to some guy on stack overflow for being very helpful
 # i used this to troll fatherless slenders lol
+# u may post bug reports in the issues thingy

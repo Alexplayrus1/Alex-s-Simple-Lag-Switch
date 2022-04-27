@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Alexplayrus1/Alex-s-Simple-Lag-Switch/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Alexplayrus1/Alex-s-Simple-Lag-Switch/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Forcely turn off/on your internet connection in a single button click
+You can easily turn your internet connection off to gain advantage
+## Free and open source
+You can see the source on github
+## Safe
+This supposed to be for personal use so its 90% safe
+## Usage:
+Press "lag on" to disconnect from the internet, then move onto any position in your game and press "lag off" to connect back. Then you should do some kind of a teleport. This works the best in roblox.
+## How to download
+When you download the .zip you gotta extract it in the folder you want to download Alex's Simple Lag Switch in. Then open the .exe in the folder and you should be done.
